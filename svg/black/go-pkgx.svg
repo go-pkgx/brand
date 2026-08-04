@@ -5,8 +5,7 @@
       <stop offset="1" stop-color="#B45309"/>
     </linearGradient>
   </defs>
-  <rect width="256" height="256" rx="56" fill="url(#gopkgx)"/>
-  <g fill="none" stroke="#FFFFFF" stroke-width="15" stroke-linejoin="round" stroke-linecap="round">
+  <g fill="none" stroke="#000000" stroke-width="15" stroke-linejoin="round" stroke-linecap="round">
     <path d="M128 58 L198 96 L198 160 L128 198 L58 160 L58 96 Z"/>
     <path d="M58 96 L128 132 L198 96"/>
     <path d="M128 132 L128 198"/>
